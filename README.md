@@ -9,3 +9,7 @@ Nextday shipping should include +$25 to the order price and Standard should incl
 Plural Strings
 -----------------------------------------------------------------------------------------------------------------------------------------
 This test should add the correct plural forms of all normal cases as well as most of the listed extraneous cases
+
+Part 2
+-----------------------------------------------------------------------------------------------------------------------------------------
+Adds the implementation of the two classes that were previously tested.
